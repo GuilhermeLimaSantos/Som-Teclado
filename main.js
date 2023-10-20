@@ -1,4 +1,6 @@
-Function tocaSom(idAudio)
+Function tocaSom(idElemento) {
+    document.querySelector(.tecla_som).play()
+}
 
 const listaDeTeclas=document.querySelectorAll('.tecla');
 
